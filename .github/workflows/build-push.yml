@@ -15,7 +15,7 @@ jobs:
       IMAGE_NAME: todo-uirak
       IMAGE_TAG: v4
       ACR_NAME: ksdevtodoapprak
-      ACR_LOGIN_SERVER: aksdevtodoapprak.azurecr.io
+      ACR_LOGIN_SERVER: ksdevtodoapprak.azurecr.io
 
     steps:
       - name: Checkout code
